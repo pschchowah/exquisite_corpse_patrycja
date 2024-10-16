@@ -1,5 +1,8 @@
 ## exquisite_corpse_patrycja
 becode - github collage exercise
+These are my 3
+lines 
+as requested
 
 # **PSCHCHOWAH**
 
